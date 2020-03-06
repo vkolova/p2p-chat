@@ -1,0 +1,2 @@
+kademlia==2.2
+sanic==19.12.2
